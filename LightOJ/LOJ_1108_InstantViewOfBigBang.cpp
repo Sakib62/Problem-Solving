@@ -2,6 +2,8 @@
     Bismillahir Rahmanir Rahim
     Author: Sakib62
 */
+
+//https://prisonbreakingbad.wordpress.com/2016/04/20/lightoj-1108-instant-view-of-big-bang/
 #include <bits/stdc++.h>
 using namespace std;
 #define limit 2000
