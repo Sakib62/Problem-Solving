@@ -1,3 +1,5 @@
+<div align="center">
+
 # Problem Solving Stats
 
 
@@ -17,3 +19,5 @@
 | Total | | 1111 |
 
 Last Updated: 8 Dec, 2022
+
+</div>
